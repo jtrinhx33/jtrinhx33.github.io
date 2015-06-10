@@ -1,2 +1,3 @@
 name: Jeannie Trinh
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
